@@ -1,1 +1,12 @@
-
+beautifulsoup4==4.15.0
+certifi==2026.6.17
+chardet==7.4.3
+charset-normalizer==3.4.7
+cssselect==1.4.0
+idna==3.18
+lxml==6.1.1
+readability-lxml==0.8.4.1
+requests==2.34.2
+soupsieve==2.8.4
+typing_extensions==4.15.0
+urllib3==2.7.0
